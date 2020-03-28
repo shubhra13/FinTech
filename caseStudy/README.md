@@ -43,7 +43,7 @@ His dad came up with the name. He was walking in the woods when he looked down a
 ### `Services offered`
 
 `Acorns Invest`
-Basic account which automatically invest your `spare change` to your diversified portfolio.
+Basic account which automatically invests your `spare change` to your diversified portfolio.
 
 `Acorns Later`
 The easiest way to save for retirement. It recommends an IRA that's right for you.
@@ -90,12 +90,12 @@ There are plenty of information in the `‘How-To’` section on:
 ### `What specific financial problem is the company or project trying to solve?`
 
 It has been lauded by investors for ***finally*** getting millennials interested in investing.
-As right said by Jennifer Barrett, Acorns' chief education officer
+As rightly said by Jennifer Barrett, Acorns' chief education officer
 >"We’re going to be more and more responsible for our own finances. There are no pensions anymore. A lot of people can’t even depend on a 401(k). Social Security is shrinking. All these things are happening, but we’re not educating people on how to manage their money. I think it’s [***only***] 17 states that require personal finance to be part of their high school curriculum. That’s terrifying."
 
 ### `Acorns' intended customers and their market size`
 
-Acorns appeals to millennials (ages 25-39 years ~ 70 million US population), adults from Generation Z (ages 18 – 24 years ~30 Million US population). With the new Acorn Later feature they are targeting Baby boomers (ages 52-70 years ~ 71 million US population) with retirement planning, a $40T market. 
+Acorns appeals to millennials (ages 25-39 years ~ 70 million US population) and adults from Generation Z (ages 18 – 24 years ~30 Million US population). With the new Acorn Later feature they are also targeting Baby boomers (ages 52-70 years ~ 71 million US population) with retirement planning, a $40T market. 
 
 It specifically targets people from the above categories, who may not have the time, the expertise or the resources to afford or to manage their finances. 
 
@@ -103,7 +103,7 @@ They have made clear the target customers by introducing offers such as, student
 
 ### `Its unfair advantage over the competitors`
 
-They were the first one to offer the unique model of spare change micro-investing as a mobile-first platform, targeting Gen Z, and millennials. So, they have a first mover advantage and associated high customer cost of switching for their competitors as a barrier to entry. 
+They were the first one to offer the unique model of spare change micro-investing as a mobile-first platform, targeting Gen Z, and millennials. So, they have a first mover advantage. For the competitors associated high customer cost of switching is a barrier to entry. 
 They are expanding to other countries like Australia.  
 As they are well funded they are beginning to acquire smaller same niche players like Vault.
 
@@ -112,16 +112,17 @@ Any new player will only end up playing a catch up game because of the above rea
 ### `Technologies currently used and implemented`
 
 
-Technology they are using nis divided in four categories:
+Technology they are using is divided in four categories:
 
 1.  **Application & Data:** Most of the technology used (listed below) is for cloud storage, smart phone app development and website application development.
 ![Application_data](images/Application-Data.png)
     ###### ***Reference image www.stackshare.io***
 2. **Utilities:**
-Most technology used below is for improving customer analytics, experience: (google analytics) and AB testing (optimizely),  customer analytics (segment)
+Most technology used below is for improving customer analytics and experience: (google analytics) and AB testing (optimizely),  customer analytics (segment)
 ![utilities](images/utilities.png)
     ###### ***Reference image www.stackshare.io***
-3. **Development Operations:**: For coding, IDE, Version control, online repository
+3. **Development Operations:**
+ For coding, IDE, version control, online repository
 ![devOps](images/devOps.png)
     ###### ***Reference image www.stackshare.io***
 4. **Business Tools:**
@@ -133,38 +134,38 @@ Most technology used below is for improving customer analytics, experience: (goo
 ---
 
 ### `Financial technology Domain Acorns belongs to`
-    Robo Advisory and micro investment.
+Robo Advisory and micro investment domain.
 
 ### `Trends and innovations of this domain over the last 5-10 years`
 
-- ***Niche Robo-Advising Forces Financial Advisors to Improve Services:*** By 2020, up to $3.7 trillion in assets are expected to be managed with the support of robo-advisory services, Deloitte reports. That number will rise to more than $16 trillion by 2025.
+- ***Niche Robo-Advising forces financial advisors to improve services:*** By 2020, up to $3.7 trillion in assets are expected to be managed with the support of robo-advisory services, Deloitte reports. That number will rise to more than $16 trillion by 2025.
 
 - ***Cost benefits:*** Customers are enjoying cost benefits, especially when obtaining customized portfolios from Robo advisors. Which used to be done by traditional financial advisors with much higher fees
 
-- ***More Use Of Artificial Intelligence:*** Enhanced analytics is another benefit of artificial intelligence, making data analysis a breeze and more accurate. Thus, delivering personalized financial solutions is now possible by analyzing the data of a customer through social media history and other data. 2020 will see more use of AI in Robo-advisory and other fintech-related processes and transactions. 
+- ***More use of Artificial Intelligence:*** Enhanced analytics is another benefit of artificial intelligence, making data analysis a breeze and more accurate. Thus, delivering personalized financial solutions is now possible by analyzing the data of a customer through social media history and other data. 2020 will see more use of AI in Robo-advisory and other fintech-related processes and transactions. 
 
-- ***Evolution of Smart Phones:*** Made investing app easily accessable to most of the people.
+- ***Ease of access:*** With the evolution of smart phones investing app is easily accessable to most of the people.
 
-### `Other major companies in this domain?`
-    Betterment, Wealthfront and Stash
+### `Other major companies in this domain`
+Betterment, Wealthfront and Stash
 
 ## `RESULTS`
 ---
 ### `What has been the business impact of this company so far?`
-They have more than 4.5 million customers and 1 Billion AUM (Asset Under Management). 
+They have more than 4.5 million customers and 1 Billion AUM (Asset Under Management). They have been successful in pulling fairly younger crowd to invest.
 
 ### `Core metrics that companies in this domain use to measure success? How is Acorns performing based on those metrics`
 
 - ***Acquisition Metrics***
 (*This indicates how many new customers you're managing to onboard.)* ***:*** 
 There are currently 4.5 Million users as of Jan 2019. And over 100,000 users in retirement account as of Dec 2018.
-They have more than $1 billion in assets under management (AUM). In fact, they are a subscription model service so AUM doesn’t really matter, valuation does. 
+They have more than $1 billion in assets under management (AUM). 
 - ***Growth Metrics:*** Went from a few employees to more than 260 employees in four years, so they grown quite a bit.
 
 - ***Revenue***
-Exact revenue is unknown, however at the time of series E funding the valuation of the company was `$860 Million`. Which is more than its competitors.
+Exact revenue is unknown, however at the time of their series E funding the valuation of the company was `$860 Million`. Which is more than any of its competitors.
 
-##### ***`Note:` KPIs such as how many app downloads, cost per acquisition and `Retention Metrics` is unknown.*** 
+##### ***`Note:` KPIs such as how many app downloads, cost per acquisition and Retention Metrics is unknown.*** 
 
 ### `How is Acorns performing relative to competitors in the same domain?`
 
@@ -189,10 +190,10 @@ The cash injections brings its valuation higher than those of micro-investing pe
     -   Corporate Bond – LQD
     -   Government Bond – SHY
 
-    All though limited options of ETFs make it easy for a beginner/novice investor. However, they are missing out on people who would like to be treated as adults or those who graduate from this simplistic way of investment and would like to know more and/or like to have a bit control on their investments 
+    All though limited options of ETFs make it easy for a beginner/novice investor. However, they are missing out on people who would like to be treated as adults or those who graduate from this simplistic way of investment and would like to know more and/or like to have a bit control over their investments 
 
 -  ***Tax Loss Harvesting:*** 
-    TLH harvests the natural  dips in the stock market as losses to weigh against your gains automatically. To reduce your “on paper” investment gains. With TLH you end up paying less tax on gains and over time the savings add up. If you invest more, the Acorns platform is reliable, but it won’t blow your mind. If you invest with the same risk level porfolio, its competitors like Betterment, wealthfront will make more gains as its saving money because of TLH.
+    TLH harvests the natural dips in the stock market as losses to weigh against your gains automatically. To reduce your “on paper” investment gains. With TLH you end up paying less tax on gains and over time the savings add up. If you invest more, the Acorns platform is reliable, but it won’t blow your mind. If you invest in the comparable risk level porfolios in other peer apps such as, Betterment, Wealthfront you will make more gains  because of the savings TLH provides.
 
 
 ![comparison](images/comparison-small.png)
@@ -200,24 +201,22 @@ The cash injections brings its valuation higher than those of micro-investing pe
 ###### ***Reference image www.listenmoneymatters.com***
 
 2.  ***FDIC-insured up to $1 million***
-    There A Risk I Will Lose All My Money if I invest through Acrons. Though Acorns is also a member of the Securities Investor Protection Corporation (SIPC) which protects customers of its members for up to `$500,000`. However, the company is not FDIC insured except for Acorns Spend account holders, which means that if the business takes a big loss or the company goes under, then your money goes with it. Only users who also have Acorns Spend are protected for up to `$250,000` under the FDIC – Federal Deposit Insurance Corporation. This is the organization that insures bank accounts.
+    *There is a risk I will lose all my money if I invest through Acrons.* Though Acorns is also a member of the Securities Investor Protection Corporation (SIPC) which protects customers of its members for up to `$500,000`. However, the company is not FDIC insured except for Acorns Spend account holders, which means that if the business takes a big loss or the company goes under, then your money goes with it. Only users who are subscribed to Acorns Spend are protected for up to `$250,000` under the FDIC – Federal Deposit Insurance Corporation.
 
 
-### `Why I think that offering this product or service would benefit the company?`
+### `Why I think that offering the above products or service would benefit the company?`
 
 
 -   More Asset class means more savings with Tax Loss Harvesting 
--   They could attract more intermediate and serious investors who perhaps just don’t have time to invest and manage and balance their portfolio. 
--   FDIC insured investment will bring more users onboard as it relieves them of the worry of a possibility of losing all their money. Also, today more than ever, when the market is so volatile, it would be important for them to assure their account holders for pure retention.
+-   They could attract more intermediate and serious investors who perhaps just don’t have the time to invest and manage their portfolio. 
+-   FDIC insured investment will bring more users onboard as it relieves them of the worry of a possibility of losing all their money. Also, today more than ever, when the market is so volatile, it would be important for them to reassure their existing subscribers for better retention.
 
 
 ### `Technologies the above additional product or service will utilize and Why?`
 
-    Their beauty is in the simplisity. However, they lack a full-powered robo-advisor, deploying algorithms and advanced software to manage a varied portfolio of investments. Acorns is more like robo-advisor meets automated saving tool meets app.
+Their beauty is in the simplicity of investing. However, they lack a full-powered robo-advisor, deploying algorithms and advanced software to manage a varied portfolio of investments. Acorns is more like robo-advisor meets automated saving tool meets app.
 
-    To compete with its competitors, to increase the AUM and retain to the customers who would like to do more than just get started, over time, they would have to spend some effort in making it a robust true robo-advisor by deploying algorithmic method selection of investment among many more ETFs under each asset class. Which will help also help them in taking advantage of TLH.
-
-    Also, there has to be a some amount paper work, policy changes for FDIC insurance for TLH approval and more transparency on the method investing needed.
+To compete with its competitors, to increase the AUM and retain to the customers who would like to do more than just get started, over time, they would have to spend some effort in making it a robust true robo-advisor by deploying algorithmic method selection of investment among many more ETFs under each asset class. Which will help also help them in taking advantage of TLH.
 
 
 ----
