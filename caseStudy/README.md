@@ -80,7 +80,7 @@ There are plenty of information in the `‘How-To’` section on:
 | 28-Jan-19	| Series E | `$105M` 
 | 19-Aug-19	| Venture round | `Unknown`
 | 1-Dec-19	| Venture round | `Unknown`
-|`Total Funding`||`$207M`|
+|Total Funding||`$207M`|
 
 
 ## `Business Activities`
