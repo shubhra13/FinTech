@@ -149,7 +149,7 @@ Robo Advisory and micro investment domain.
 ### `Other major companies in this domain`
 Betterment, Wealthfront and Stash
 
-## `RESULTS`
+## `Results`
 ---
 ### `What has been the business impact of this company so far?`
 They have more than 4.5 million customers and 1 Billion AUM (Asset Under Management). They have been successful in enagaging younger crowd in the investment arena.
