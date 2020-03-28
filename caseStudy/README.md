@@ -87,13 +87,13 @@ There are plenty of information in the `‘How-To’` section on:
 
 ----
 
-### `The financial problem Acrons is trying to solve`
+### `The financial problem it is trying to solve`
 
 It has been lauded by investors for ***finally*** getting millennials interested in investing.
 As rightly said by Jennifer Barrett, Acorns' chief education officer
 >"We’re going to be more and more responsible for our own finances. There are no pensions anymore. A lot of people can’t even depend on a 401(k). Social Security is shrinking. All these things are happening, but we’re not educating people on how to manage their money. I think it’s [***only***] 17 states that require personal finance to be part of their high school curriculum. That’s terrifying."
 
-### `Acorns' intended customers and their market size`
+### Intended customers and their market size`
 
 Acorns appeals to millennials (ages 25-39 years ~ 70 million US population) and adults from Generation Z (ages 18 – 24 years ~30 Million US population). With the new Acorn Later feature they are also targeting baby boomers (ages 52-70 years ~ 71 million US population) with retirement planning, a $40T market. 
 
@@ -101,28 +101,28 @@ It specifically targets people from the above categories, who may not have the t
 
 They have made clear of their target customers by introducing offers such as, students with a .edu email address can use Acorns Core for free, for up to four years. Or by their acquisition of Vault, which helps you automatically save for retirement whenever you’re paid. 
 
-### `Its unfair advantage over the competitors`
+### `Its unfair advantage over its competitors`
 
-They were the first one to offer the unique model of spare change micro-investing as a mobile-first platform, targeting Gen Z, and millennials. So, they have a first mover advantage. For the competitors associated high customer cost of switching is a barrier to entry. 
-They are expanding internationally to other countries like Australia.
-As they are well funded they are beginning to acquire smaller same niche players like Vault.
+* They were the first one to offer the unique model of spare change micro-investing as a mobile-first platform, targeting Gen Z, and millennials. So, they have a first mover advantage. For the competitors there is an associated high customer cost of switching which becomes a barrier to entry. 
+* They are expanding internationally to other countries like Australia.
+* As they are well funded they are beginning to acquire smaller same niche players like Vault.
 
-Any new player will only end up playing a catch up game because of the above reasons. And financially well placed competitors like Betterment etc. will have to pivot their business model to accommodate for micro-spending.
+In conclusion, any new player will only end up playing a catch up game because of the above reasons. And financially well placed competitors like Betterment etc. will have to pivot their business model to accommodate for micro-spending.
 
-### `Technologies currently used and implemented`
+### `Technology used and implemented`
 
 
-Technology they are using is divided in four categories:
+Technology they are currently using is divided in four categories:
 
 1.  **Application & Data:** Most of the technology used (listed below) is for cloud storage, smart phone app development and website application development.
 ![Application_data](images/Application-Data.png)
     ###### ***Reference image www.stackshare.io***
 2. **Utilities:**
-Most technology used below is for improving customer analytics and experience: (google analytics) and AB testing (optimizely),  customer analytics (segment)
+Technology used below is for improving customer analytics and experience: (google analytics) and AB testing (optimizely),  customer analytics (segment)
 ![utilities](images/utilities.png)
     ###### ***Reference image www.stackshare.io***
 3. **Development Operations:**
- For coding, IDE, version control, online repository
+ For coding, IDE, version control and online repository
 ![devOps](images/devOps.png)
     ###### ***Reference image www.stackshare.io***
 4. **Business Tools:**
@@ -133,28 +133,28 @@ Most technology used below is for improving customer analytics and experience: (
 ## `Landscape:`
 ---
 
-### `Financial technology Domain Acorns belongs to`
+### `Financial technology Domain it belongs to`
 Robo Advisory and micro investment domain.
 
 ### `Trends and innovations of this domain over the last 5-10 years`
 
-- ***Niche Robo-Advising forces financial advisors to improve services:*** By 2020, up to $3.7 trillion in assets are expected to be managed with the support of robo-advisory services, Deloitte reports. That number will rise to more than $16 trillion by 2025.
+- ***Niche Robo-Advising forces financial advisors to improve services:*** By 2020, up to $3.7 Trillion in assets are expected to be managed with the support of robo-advisory services, Deloitte reports. That number will rise to more than $16 Trillion by 2025.
 
-- ***Cost benefits:*** Customers are enjoying cost benefits, especially when obtaining customized portfolios from Robo advisors. Which used to be done by traditional financial advisors with much higher fees
+- ***Cost benefits:*** Customers are enjoying cost benefits, especially when obtaining customized portfolios from Robo advisors. Which was traditionally financial advisors with a much higher fees
 
 - ***More use of Artificial Intelligence:*** Enhanced analytics is another benefit of artificial intelligence, making data analysis a breeze and more accurate. Thus, delivering personalized financial solutions is now possible by analyzing the data of a customer through social media history and other data. 2020 will see more use of AI in Robo-advisory and other fintech-related processes and transactions. 
 
 - ***Ease of access:*** With the evolution of smart phones investing app is easily accessable to most of the people.
 
 ### `Other major companies in this domain`
-Betterment, Wealthfront and Stash
+Three major players in this domain are: Betterment, Wealthfront and Stash
 
 ## `Results`
 ---
-### `What has been the business impact of this company so far?`
-They have more than 4.5 million customers and 1 Billion AUM (Asset Under Management). They have been successful in enagaging younger crowd in the investment arena.
+### `Business impact so far`
+They have more than 4.5 Million customers and 1 Billion AUM (Asset Under Management). They have been successful in enagaging younger crowd in the investment arena.
 
-### `Core metrics that companies in this domain use to measure success? How is Acorns performing based on those metrics`
+### `Core metrics used to measure success? How is Acorns performing based on those metrics`
 
 - ***Acquisition Metrics***
 (*This indicates how many new customers you're managing to onboard.)* ***:*** 
@@ -167,7 +167,7 @@ Exact revenue is unknown, however at the time of their series E funding the valu
 
 ##### ***`Note:` KPIs such as how many app downloads, cost per acquisition and Retention Metrics is unknown.*** 
 
-### `Acorns performance relative to its competitors`
+### `Performance relative to its competitors`
 
 Investors in the Series E round include Comcast’s venture capital arm and NBCUniversal, which is now its largest shareholder, along with Bain Capital Ventures, BlackRock and others.
 The cash injections brings its valuation higher than those of micro-investing peers such as Betterment, Wealthfront and Stash.
