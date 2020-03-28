@@ -87,7 +87,7 @@ There are plenty of information in the `‘How-To’` section on:
 
 ----
 
-### `What specific financial problem is the company or project trying to solve?`
+### `The financial problem Acrons is trying to solve`
 
 It has been lauded by investors for ***finally*** getting millennials interested in investing.
 As rightly said by Jennifer Barrett, Acorns' chief education officer
