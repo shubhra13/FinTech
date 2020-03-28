@@ -15,7 +15,7 @@
 |Founders | Jeffrey James Cruttenden, Walter Wemple Cruttenden III 
 |Domain	| Fintech - Robo Advisor
 |URL	| [Website](www.acorns.com)
-|Launched |	**2012**
+|Launched |	2012
 
 ----
 
