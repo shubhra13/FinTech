@@ -51,7 +51,7 @@ The easiest way to save for retirement. It recommends an IRA that's right for yo
 `Acorns Spend`
 Their all-digital checking account with retirement and investment accounts built-in, even comes equipped with a debit card.
 
-    ***Acorns Found Money*** is the equivalent of an employer-match 401(k) plan. For every purchase you make with one of Acorn’s 200+ partners, they’ll contribute a dollar amount or a percentage of your purchase into your investment account. That’s free money. Used on top of a rewards credit card can double or triple your earning power.
+***Acorns Found Money*** is the equivalent of an employer-match 401(k) plan. For every purchase you make with one of Acorn’s 200+ partners, they’ll contribute a dollar amount or a percentage of your purchase into your investment account. That’s free money. Used on top of a rewards credit card can double or triple your earning power.
 
 `Acorns Grow`
 Their online publication, Grow Magazine, hosts a suite of educational tools.
