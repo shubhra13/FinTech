@@ -95,7 +95,7 @@ As rightly said by Jennifer Barrett, Acorns' chief education officer
 
 ### `Acorns' intended customers and their market size`
 
-Acorns appeals to millennials (ages 25-39 years ~ 70 million US population) and adults from Generation Z (ages 18 – 24 years ~30 Million US population). With the new Acorn Later feature they are also targeting Baby boomers (ages 52-70 years ~ 71 million US population) with retirement planning, a $40T market. 
+Acorns appeals to millennials (ages 25-39 years ~ 70 million US population) and adults from Generation Z (ages 18 – 24 years ~30 Million US population). With the new Acorn Later feature they are also targeting baby boomers (ages 52-70 years ~ 71 million US population) with retirement planning, a $40T market. 
 
 It specifically targets people from the above categories, who may not have the time, the expertise or the resources to afford or to manage their finances. 
 
