@@ -215,9 +215,9 @@ It is a younger company compared to its peers in its domain and yet has a better
 
 ### `Technologies the above additional product or service will utilize and Why?`
 
-Their beauty is in the simplicity of investing. However, they lack a full-powered robo-advisor, deploying algorithms and advanced software to manage a varied portfolio of investments. Acorns is more like robo-advisor meets automated saving tool meets app.
+Their beauty is in their simplicity. However, they lack a full-powered robo-advisor, deploying algorithms and advanced software to manage a varied portfolio of investments. Acorns is more like robo-advisor meets automated saving tool meets app.
 
-To compete with its competitors, to increase the AUM and retain to the customers who would like to do more than just get started, over time, they would have to spend some effort in making it a robust true robo-advisor by deploying algorithmic method selection of investment among many more ETFs under each asset class. Which will help also help them in taking advantage of TLH.
+To compete with its competitors, to increase the AUM and retain the customers who would like to do more than just get started, over time, they would have to spend some effort in making it a robust true robo-advisor by deploying algorithmic method selection of investment among many more ETFs under each asset class. Which will help also help them in taking advantage of TLH.
 
 
 ----
