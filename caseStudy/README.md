@@ -99,12 +99,12 @@ Acorns appeals to millennials (ages 25-39 years ~ 70 million US population) and 
 
 It specifically targets people from the above categories, who may not have the time, the expertise or the resources to afford or to manage their finances. 
 
-They have made clear the target customers by introducing offers such as, students with a .edu email address can use Acorns Core for free, for up to four years. Or by their acquisition of Vault, which helps you automatically save for retirement whenever you’re paid. 
+They have made clear of their target customers by introducing offers such as, students with a .edu email address can use Acorns Core for free, for up to four years. Or by their acquisition of Vault, which helps you automatically save for retirement whenever you’re paid. 
 
 ### `Its unfair advantage over the competitors`
 
 They were the first one to offer the unique model of spare change micro-investing as a mobile-first platform, targeting Gen Z, and millennials. So, they have a first mover advantage. For the competitors associated high customer cost of switching is a barrier to entry. 
-They are expanding to other countries like Australia.  
+They are expanding internationally to other countries like Australia.
 As they are well funded they are beginning to acquire smaller same niche players like Vault.
 
 Any new player will only end up playing a catch up game because of the above reasons. And financially well placed competitors like Betterment etc. will have to pivot their business model to accommodate for micro-spending.
@@ -152,7 +152,7 @@ Betterment, Wealthfront and Stash
 ## `RESULTS`
 ---
 ### `What has been the business impact of this company so far?`
-They have more than 4.5 million customers and 1 Billion AUM (Asset Under Management). They have been successful in pulling fairly younger crowd to invest.
+They have more than 4.5 million customers and 1 Billion AUM (Asset Under Management). They have been successful in enagaging younger crowd in the investment arena.
 
 ### `Core metrics that companies in this domain use to measure success? How is Acorns performing based on those metrics`
 
@@ -167,10 +167,11 @@ Exact revenue is unknown, however at the time of their series E funding the valu
 
 ##### ***`Note:` KPIs such as how many app downloads, cost per acquisition and Retention Metrics is unknown.*** 
 
-### `How is Acorns performing relative to competitors in the same domain?`
+### `Acorns performance relative to its competitors`
 
 Investors in the Series E round include Comcast’s venture capital arm and NBCUniversal, which is now its largest shareholder, along with Bain Capital Ventures, BlackRock and others.
 The cash injections brings its valuation higher than those of micro-investing peers such as Betterment, Wealthfront and Stash.
+It is a younger company compared to its peers in its domain and yet has a better valuation!
 
 
 ## `Recommendations`
@@ -178,7 +179,7 @@ The cash injections brings its valuation higher than those of micro-investing pe
 
 ### ` My recommendation of products and services they offer`
 
-1. **Offer more Asset Classes and Corresponding ETFs:**
+1. **Offer more asset classes and corresponding ETFs:**
 
 -   ***Missing out on many customers:***
     In terms of investment Acorns only offers 7 Asset Classes and corresponding ETF’s that you can invest in based on the risk level derived.
